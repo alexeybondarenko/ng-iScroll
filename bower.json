@@ -2,6 +2,6 @@
   "name": "ng-iScroll",
   "version": "1.0.0",
   "main": [
-    "src/ng-iscroll"
+    "src/ng-iscroll.js"
   ]
 }
